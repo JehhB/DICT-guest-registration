@@ -1,0 +1,1 @@
+# DICT-guest-registration
